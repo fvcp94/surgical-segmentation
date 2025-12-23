@@ -1,43 +1,8 @@
-# Deep Learning Frameworks
-torch>=2.0.0
-torchvision>=0.15.0
-tensorflow>=2.12.0
-
-# Scientific Computing
-numpy>=1.24.0
-scipy>=1.10.0
-pandas>=2.0.0
-scikit-learn>=1.2.0
-statsmodels>=0.14.0
-
-# Image Processing
-opencv-python>=4.8.0
-Pillow>=10.0.0
-SimpleITK>=2.2.0
-pydicom>=2.4.0
-
-# Visualization
-matplotlib>=3.7.0
-seaborn>=0.12.0
-plotly>=5.14.0
-
-# Streamlit Dashboard
 streamlit>=1.28.0
-
-# Model Deployment
-fastapi>=0.104.0
-uvicorn>=0.24.0
-python-multipart>=0.0.6
-
-# Utilities
-tqdm>=4.65.0
-pyyaml>=6.0
-h5py>=3.9.0
-
-# AWS Integration (optional)
-boto3>=1.28.0
-botocore>=1.31.0
-
-# Testing
-pytest>=7.4.0
-pytest-cov>=4.1.0
+numpy>=1.24.0
+pandas>=2.0.0
+plotly>=5.14.0
+opencv-python-headless>=4.8.0
+Pillow>=10.0.0
+scipy>=1.10.0
+scikit-learn>=1.2.0
